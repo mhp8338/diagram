@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T09:08:02.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.0" etag="ZedIynKHNkF-oTLXI-Ls" type="github"><diagram id="fPQPxZYEsqGLl3HqsfFE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-21T06:31:54.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="uketQqnInqMWuSTRtPuM" version="13.8.0" type="github">
+  <diagram id="fPQPxZYEsqGLl3HqsfFE" name="Page-1">
+    <mxGraphModel dx="920" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#ffe6cc;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="443" width="387.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=14;fontFamily=Lucida Console;" edge="1" parent="1" source="ns1oeiQXSgTKByQ-53IY-1" target="ns1oeiQXSgTKByQ-53IY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="518" />
+              <mxPoint x="195" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="137" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-2" value="前端开发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="83" y="241" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;fontSize=14;fontFamily=Lucida Console;" edge="1" parent="1" source="ns1oeiQXSgTKByQ-53IY-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="202" y="608" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#dae8fc;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="350" y="493" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-6" value="应用服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="463" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;fontSize=14;fillColor=#d5e8d4;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="585" y="488" width="99.5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-10" value="数据库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="592.25" y="463" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-13" value="请求数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="214" y="493" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-15" value="返回数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;perimeterSpacing=0;spacingBottom=0;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="230.25" y="611" width="66" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-17" value="后端开发（面向结口式开发，rest framework）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="346.88" y="414" width="347.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-18" value="(1)对外提供统一的API&lt;br&gt;(2)根据请求操纵数据返回所需要的数据(JSON/XML)&lt;br&gt;(3)不负责前端页面的处理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;spacingTop=0;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="355" y="508" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-29" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=2;fontFamily=Lucida Console;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="562.5" as="sourcePoint" />
+            <mxPoint x="575" y="562.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="548" y="562.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-30" value="获取静态页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="312" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Lucida Console;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="ns1oeiQXSgTKByQ-53IY-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196.66668701171875" y="367" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="197" y="367" />
+              <mxPoint x="197" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-32" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=Lucida Console;fontSize=14;align=left;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="325" y="270" width="391" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-33" value="静态资源：HTML CSS JS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="312" width="237" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-34" value="静态文件服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="454.38" y="237" width="126.25" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-35" value="" style="endArrow=classic;html=1;strokeWidth=2;fontFamily=Lucida Console;fontSize=14;fontColor=#000000;exitX=0.997;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ns1oeiQXSgTKByQ-53IY-1" target="ns1oeiQXSgTKByQ-53IY-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="336" as="sourcePoint" />
+            <mxPoint x="319" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-36" value="请求静态资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="292" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-38" value="返回静态文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="212.75" y="342" width="101" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ns1oeiQXSgTKByQ-53IY-39" value="(1)运行JS请求后端数据，填充至页面&lt;br&gt;(2)路由跳转" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="63.5" y="535" width="131.5" height="57" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
